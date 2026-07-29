@@ -34,4 +34,13 @@ Completed database planning.
 Prepared database documentation.
 Defined naming conventions.
 Prepared project for database implementation.
---------------------------------------------
+-------------------------------------------------
+
+
+Week 1 Day 4
+
+Installed and verified PostgreSQL.
+Created project database.
+Verified database availability in pgAdmin.
+Prepared system for table creation.
+--------------------------------------------------

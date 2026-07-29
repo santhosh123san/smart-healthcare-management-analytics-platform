@@ -55,7 +55,7 @@ docs/technical/Development_Log.txt
 
 docs/project_management/Files_Created_Log.txt
 
-
+===================================================
 
 Week 1 Day 3
 
@@ -72,3 +72,15 @@ screenshots/Week1/Day3/01_Database_Plan_Document.png
 screenshots/Week1/Day3/02_Database_Notes.png
 
 screenshots/Week1/Day3/03_Daily_Report.png
+
+===================================================
+
+Week 1 Day 4
+
+Created Files
+
+database/setup/PostgreSQL_Installation_Report.docx
+
+database/setup/Database_Creation_Report.docx
+
+=====================================================
