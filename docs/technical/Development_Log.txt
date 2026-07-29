@@ -25,4 +25,13 @@ Week 1 Day 2
 • .gitignore configured.
 • Project prepared for PostgreSQL database development.
 
+-------------------------------------------------
+
+
+Week 1 Day 3
+
+Completed database planning.
+Prepared database documentation.
+Defined naming conventions.
+Prepared project for database implementation.
 --------------------------------------------

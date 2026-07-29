@@ -1,0 +1,22 @@
+SMART HEALTHCARE MANAGEMENT PLATFORM
+DATABASE DESIGN NOTES
+
+Date:
+Week 1 - Day 3
+
+Objectives
+----------
+1. Plan the complete hospital database.
+2. Identify all project modules.
+3. Decide database naming conventions.
+4. Plan relationships.
+5. Prepare for ER Diagram creation.
+6. Prepare for PostgreSQL implementation.
+
+Status
+------
+Database planning completed successfully.
+
+Next Step
+---------
+Create database tables and relationships.

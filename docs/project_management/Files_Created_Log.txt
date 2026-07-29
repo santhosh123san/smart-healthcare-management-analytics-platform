@@ -54,3 +54,21 @@ docs/architecture/Backend_Architecture.docx
 docs/technical/Development_Log.txt
 
 docs/project_management/Files_Created_Log.txt
+
+
+
+Week 1 Day 3
+
+Created Files
+
+database/design/Database_Plan.docx
+
+docs/technical/Database_Design_Notes.txt
+
+docs/daily_reports/Week1_Day3_Report.docx
+
+screenshots/Week1/Day3/01_Database_Plan_Document.png
+
+screenshots/Week1/Day3/02_Database_Notes.png
+
+screenshots/Week1/Day3/03_Daily_Report.png
