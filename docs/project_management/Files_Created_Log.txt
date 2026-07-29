@@ -84,3 +84,13 @@ database/setup/PostgreSQL_Installation_Report.docx
 database/setup/Database_Creation_Report.docx
 
 =====================================================
+
+Week 1 Day 5
+
+Files Created
+
+sql/01_create_patients_doctors_tables.sql
+
+database/Week1_Day5_Table_Creation_Report.docx
+
+========================================================

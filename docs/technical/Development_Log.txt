@@ -44,3 +44,22 @@ Created project database.
 Verified database availability in pgAdmin.
 Prepared system for table creation.
 --------------------------------------------------
+
+=========================
+Week 1 - Day 5
+=========================
+
+Task Completed:
+Designed initial hospital database.
+
+Created:
+• Patients Table
+• Doctors Table
+
+SQL File:
+01_create_patients_doctors_tables.sql
+
+Status:
+Completed
+
+---------------------------------------------------
