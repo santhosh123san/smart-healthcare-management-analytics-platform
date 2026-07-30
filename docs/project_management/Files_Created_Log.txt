@@ -106,3 +106,17 @@ Files Created
 Total Files Created Today: 1
 
 --------------------------------------------------------
+
+=========================================
+Week 1 - Day 7
+=========================================
+
+Files Created
+
+1. sql/02_insert_sample_data.sql
+
+2. database/Week1_Day7_Sample_Data_Report.docx
+
+Total Files Created Today: 2
+
+--------------------------------------------------------

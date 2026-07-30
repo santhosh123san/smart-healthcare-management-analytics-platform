@@ -80,3 +80,20 @@ Status:
 Completed Successfully.
 
 ----------------------------------------------------
+
+=========================================
+Week 1 - Day 7
+=========================================
+
+Created sample data SQL script.
+
+Inserted:
+• 5 Patients
+• 5 Doctors
+
+Verified inserted records.
+
+Status:
+Completed Successfully.
+
+---------------------------------------------------
