@@ -18,7 +18,7 @@ function Navbar() {
         </li>
 
         <li>
-          <span>Doctors</span>
+          <Link to="/doctors">Doctors</Link>
         </li>
 
         <li>

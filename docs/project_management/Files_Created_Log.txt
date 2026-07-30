@@ -281,3 +281,45 @@ Purpose:
   implemented during Day 5.
 
 --------------------------------------------------
+
+--------------------------------------------------
+DAY 6 — DOCTORS PAGE AND ROUTING
+
+Files Created:
+- frontend/src/pages/Doctors.jsx
+
+Files Modified:
+- frontend/src/App.jsx
+- frontend/src/components/Sidebar.jsx
+
+Purpose:
+- Created the Doctors page.
+- Added the Doctors React Router route.
+- Added Doctors navigation to the Sidebar.
+- Verified Dashboard, Patients, and Doctors navigation.
+
+--------------------------------------------------
+
+--------------------------------------------------
+DAY 6 — NAVBAR DOCTORS ROUTING
+
+Files Modified:
+- frontend/src/components/Navbar.jsx
+
+Purpose:
+- Added a React Router link for the Doctors page in the Navbar.
+- Verified navigation to /doctors from the Navbar.
+
+--------------------------------------------------
+
+--------------------------------------------------
+DAY 6 — SCREENSHOT
+
+Screenshot Created:
+- screenshots/week1/day6/Week1_Day6_Doctors_Page.png
+
+Purpose:
+- Documents the Doctors page and routing functionality
+  implemented during Day 6.
+
+--------------------------------------------------

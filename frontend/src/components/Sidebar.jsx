@@ -15,7 +15,10 @@ function Sidebar() {
           <Link to="/patients">Patients</Link>
         </li>
 
-        <li>Doctors</li>
+        <li>
+          <Link to="/doctors">Doctors</Link>
+        </li>
+        
         <li>Appointments</li>
         <li>Billing</li>
         <li>Laboratory</li>

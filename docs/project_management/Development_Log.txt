@@ -183,3 +183,50 @@ Screenshot:
 Status:
 Patients page and routing successfully verified.
 --------------------------------------------------
+
+--------------------------------------------------
+DAY 6 — DOCTORS PAGE AND ROUTING
+--------------------------------------------------
+
+Member: Prathanjan
+
+Work Completed:
+- Created the Doctors page.
+- Added sample doctor KPI information.
+- Imported the Doctors page into App.jsx.
+- Added the /doctors React Router route.
+- Added the Doctors navigation link to the Sidebar.
+- Tested navigation between Dashboard, Patients, and Doctors.
+- Verified that the Doctors page loads correctly.
+
+Files Created:
+- frontend/src/pages/Doctors.jsx
+
+Files Modified:
+- frontend/src/App.jsx
+- frontend/src/components/Sidebar.jsx
+
+Status:
+Doctors page and routing successfully implemented and tested.
+--------------------------------------------------
+
+--------------------------------------------------
+DAY 6 — DOCTORS PAGE VERIFICATION
+--------------------------------------------------
+
+Member: Prathanjan
+
+Verification:
+- Opened the Doctors page using the /doctors route.
+- Verified the Doctors page loads correctly.
+- Verified Dashboard, Patients, and Doctors navigation.
+- Verified the Doctors link from the Sidebar.
+- Verified the Doctors link from the Navbar.
+- Captured the Day 6 Doctors page screenshot.
+
+Screenshot:
+- screenshots/week1/day6/Week1_Day6_Doctors_Page.png
+
+Status:
+Doctors page and routing successfully verified.
+--------------------------------------------------

@@ -6,6 +6,7 @@ import Sidebar from "./components/Sidebar";
 
 import Dashboard from "./pages/Dashboard";
 import Patients from "./pages/Patients";
+import Doctors from "./pages/Doctors";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/patients" element={<Patients />} />
+            <Route path="/doctors" element={<Doctors />} />
           </Routes>
         </div>
       </div>
