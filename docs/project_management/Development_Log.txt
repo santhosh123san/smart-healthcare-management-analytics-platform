@@ -131,3 +131,55 @@ Files Modified:
 Status:
 Reusable KPI component successfully implemented and tested.
 --------------------------------------------------
+
+--------------------------------------------------
+DAY 5 — PATIENTS PAGE AND ROUTING
+--------------------------------------------------
+
+Member: Prathanjan
+
+Work Completed:
+- Created the Patients page.
+- Added sample patient KPI information.
+- Installed react-router-dom.
+- Added BrowserRouter to the application.
+- Created Dashboard and Patients routes.
+- Added clickable Dashboard and Patients links to the Sidebar.
+- Added clickable Dashboard and Patients links to the Navbar.
+- Tested navigation between Dashboard and Patients pages.
+- Verified the Patients page loads correctly at /patients.
+
+Files Created:
+- frontend/src/pages/Patients.jsx
+
+Files Modified:
+- frontend/src/App.jsx
+- frontend/src/components/Sidebar.jsx
+- frontend/src/components/Navbar.jsx
+
+Dependencies:
+- react-router-dom
+
+Status:
+Patients page and frontend routing successfully implemented and tested.
+--------------------------------------------------
+
+--------------------------------------------------
+DAY 5 — PATIENTS PAGE VERIFICATION
+--------------------------------------------------
+
+Member: Prathanjan
+
+Verification:
+- Opened the Patients page using the React Router route.
+- Verified the Patients page loads correctly.
+- Verified Dashboard and Patients navigation from the Sidebar.
+- Verified Dashboard and Patients navigation from the Navbar.
+- Captured the Day 5 Patients page screenshot.
+
+Screenshot:
+- screenshots/week1/day5/Week1_Day5_Patients_Page.png
+
+Status:
+Patients page and routing successfully verified.
+--------------------------------------------------

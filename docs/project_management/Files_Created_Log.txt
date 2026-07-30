@@ -244,3 +244,40 @@ Screenshot:
 Status:
 Day 4 frontend component implementation verified successfully.
 --------------------------------------------------
+
+--------------------------------------------------
+DAY 5 — PATIENTS PAGE AND ROUTING
+
+Files Created:
+- frontend/src/pages/Patients.jsx
+
+Files Modified:
+- frontend/src/App.jsx
+- frontend/src/components/Sidebar.jsx
+- frontend/src/components/Navbar.jsx
+- frontend/package.json
+- frontend/package-lock.json
+
+Dependency Added:
+- react-router-dom
+
+Purpose:
+- Created the Patients page.
+- Added React Router to the frontend.
+- Added Dashboard and Patients routes.
+- Added clickable Dashboard and Patients navigation.
+- Verified navigation between the Dashboard and Patients pages.
+
+--------------------------------------------------
+
+--------------------------------------------------
+DAY 5 — SCREENSHOT
+
+Screenshot Created:
+- screenshots/week1/day5/Week1_Day5_Patients_Page.png
+
+Purpose:
+- Documents the Patients page and React Router navigation
+  implemented during Day 5.
+
+--------------------------------------------------

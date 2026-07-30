@@ -1,4 +1,5 @@
 import "./Sidebar.css";
+import { Link } from "react-router-dom";
 
 function Sidebar() {
   return (
@@ -6,8 +7,14 @@ function Sidebar() {
       <h3>Hospital Menu</h3>
 
       <ul>
-        <li>Dashboard</li>
-        <li>Patients</li>
+        <li>
+          <Link to="/">Dashboard</Link>
+        </li>
+
+        <li>
+          <Link to="/patients">Patients</Link>
+        </li>
+
         <li>Doctors</li>
         <li>Appointments</li>
         <li>Billing</li>
