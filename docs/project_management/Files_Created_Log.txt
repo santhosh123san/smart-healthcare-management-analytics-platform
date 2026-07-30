@@ -94,3 +94,15 @@ sql/01_create_patients_doctors_tables.sql
 database/Week1_Day5_Table_Creation_Report.docx
 
 ========================================================
+
+=========================================
+Week 1 - Day 6
+=========================================
+
+Files Created
+
+1. database/Week1_Day6_Database_Execution_Report.docx
+
+Total Files Created Today: 1
+
+--------------------------------------------------------

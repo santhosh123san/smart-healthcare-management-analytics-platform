@@ -1,7 +1,7 @@
 -- =====================================
 -- SMART HEALTHCARE PLATFORM
--- Patients & Doctors Tables
 -- Week 1 - Day 5
+-- Patients & Doctors Tables
 -- =====================================
 
 CREATE TABLE Patients (
