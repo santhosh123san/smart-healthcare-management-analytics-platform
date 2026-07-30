@@ -323,3 +323,38 @@ Purpose:
   implemented during Day 6.
 
 --------------------------------------------------
+
+--------------------------------------------------
+DAY 7 — FRONTEND API SERVICE PREPARATION
+--------------------------------------------------
+
+Files Created:
+- frontend/src/services/api.js
+
+Purpose:
+- Created a centralized API service for frontend-to-backend communication.
+- Configured the FastAPI base URL using the VITE_API_BASE_URL environment variable.
+- Added a reusable apiRequest function for HTTP requests.
+- Prepared the frontend for future FastAPI integration.
+
+Verification:
+- Confirmed the React frontend continues to run correctly.
+- Verified Dashboard, Patients, and Doctors pages still work.
+
+--------------------------------------------------
+
+--------------------------------------------------
+DAY 7 — FRONTEND API CONFIGURATION
+
+Files Created:
+- frontend/.env
+
+Purpose:
+- Configured the frontend API base URL.
+- Set VITE_API_BASE_URL to http://localhost:8000.
+- Prepared the React frontend for future FastAPI integration.
+
+Git Protection:
+- The .env file is excluded from Git tracking through frontend/.gitignore.
+
+--------------------------------------------------

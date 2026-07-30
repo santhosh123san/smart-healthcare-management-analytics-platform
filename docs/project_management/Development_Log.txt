@@ -230,3 +230,26 @@ Screenshot:
 Status:
 Doctors page and routing successfully verified.
 --------------------------------------------------
+
+--------------------------------------------------
+DAY 7 — FRONTEND API CONFIGURATION
+--------------------------------------------------
+
+Member: Prathanjan
+
+Work Completed:
+- Created the centralized frontend API service in api.js.
+- Configured the API base URL using VITE_API_BASE_URL.
+- Created the frontend .env configuration file.
+- Set the development backend URL to http://localhost:8000.
+- Verified that the .env file is protected by frontend/.gitignore.
+- Verified that the React application continues to run correctly.
+- Verified Dashboard, Patients, and Doctors pages.
+
+Files Created:
+- frontend/src/services/api.js
+- frontend/.env
+
+Status:
+Frontend API communication structure prepared for future FastAPI integration.
+--------------------------------------------------
