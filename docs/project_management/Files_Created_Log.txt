@@ -120,3 +120,127 @@ Files Created
 Total Files Created Today: 2
 
 --------------------------------------------------------
+
+==================================================
+PRATHANJAN — WEEK 1 FILES CREATED
+==================================================
+
+DAY 1 — 28 July 2026
+
+Frontend:
+- frontend/src/components/
+- frontend/src/pages/
+- frontend/src/services/
+- frontend/src/styles/
+- frontend/src/hooks/
+- frontend/src/utils/
+
+Files:
+- frontend/src/App.jsx
+- frontend/src/App.css
+- frontend/src/index.css
+- frontend/src/main.jsx
+- frontend/src/components/Navbar.jsx
+- frontend/src/components/Navbar.css
+- frontend/src/pages/Dashboard.jsx
+- frontend/src/styles/Dashboard.css
+
+Documentation:
+- docs/daily_reports/day1.md
+
+Screenshots:
+- screenshots/week1/day1/frontend-setup-completed.png
+- screenshots/week1/day1/Week1_Day1_Frontend_Folder_Structure.png
+
+--------------------------------------------------
+
+DAY 2 — 29 July 2026
+
+Files Created/Modified:
+- frontend/src/components/Navbar.jsx
+- frontend/src/components/Navbar.css
+- frontend/src/pages/Dashboard.jsx
+- frontend/src/styles/Dashboard.css
+- frontend/src/App.jsx
+
+Documentation:
+- docs/daily_reports/Week1_Day2_Report_Prathanjan.md
+
+Screenshots:
+- screenshots/week1/day2/Week1_Day2_Navbar_Completed.png
+- screenshots/week1/day2/Week1_Day2_Dashboard_KPI.png
+
+--------------------------------------------------
+
+DAY 3 — 30 July 2026
+
+Files Created/Modified:
+- frontend/src/components/Sidebar.jsx
+- frontend/src/components/Sidebar.css
+- frontend/src/App.jsx
+- frontend/src/App.css
+- frontend/.gitignore
+
+Documentation:
+- docs/daily_reports/Week1_Day3_Report_Prathanjan.md
+
+Screenshots:
+- screenshots/week1/day3/Week1_Day3_Sidebar_Layout.png
+
+--------------------------------------------------
+
+DAY 4 — 30 July 2026
+
+Project Management:
+- docs/project_management/Development_Log.txt
+- docs/project_management/Files_Created_Log.txt
+
+==================================================
+
+--------------------------------------------------
+
+DAY 4 — FRONTEND DEVELOPMENT
+
+Files Created:
+- frontend/src/components/KpiCard.jsx
+- frontend/src/components/KpiCard.css
+
+Files Modified:
+- frontend/src/pages/Dashboard.jsx
+
+Purpose:
+- Created a reusable KPI Card component.
+- Connected the reusable component to the Dashboard.
+- Added dedicated styling for KPI cards.
+
+--------------------------------------------------
+
+--------------------------------------------------
+DAY 4 — SCREENSHOT
+
+Screenshot Created:
+- screenshots/week1/day4/Week1_Day4_Reusability_KpiCard.png
+
+Purpose:
+- Documents the updated healthcare dashboard after implementing
+  the reusable KpiCard component and its styling.
+
+--------------------------------------------------
+
+--------------------------------------------------
+DAY 4 — DASHBOARD VERIFICATION
+--------------------------------------------------
+
+Member: Prathanjan
+
+Verification:
+- Verified the reusable KpiCard component in the browser.
+- Confirmed all four healthcare KPI cards render correctly.
+- Captured the completed Day 4 dashboard screenshot.
+
+Screenshot:
+- screenshots/week1/day4/Week1_Day4_Reusability_KpiCard.png
+
+Status:
+Day 4 frontend component implementation verified successfully.
+--------------------------------------------------

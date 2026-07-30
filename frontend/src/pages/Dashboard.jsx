@@ -1,6 +1,7 @@
 import "../styles/Dashboard.css";
+import KpiCard from "../components/KpiCard";
 
- function Dashboard() {
+function Dashboard() {
   return (
     <div className="dashboard">
       <h1>Hospital Dashboard</h1>
@@ -10,25 +11,10 @@ import "../styles/Dashboard.css";
       </p>
 
       <div className="kpi-container">
-        <div className="kpi-card">
-          <h3>Total Patients</h3>
-          <p>1,250</p>
-        </div>
-
-        <div className="kpi-card">
-          <h3>Doctors</h3>
-          <p>85</p>
-        </div>
-
-        <div className="kpi-card">
-          <h3>Appointments Today</h3>
-          <p>142</p>
-        </div>
-
-        <div className="kpi-card">
-          <h3>Available Beds</h3>
-          <p>48</p>
-        </div>
+        <KpiCard title="Total Patients" value="1,250" />
+        <KpiCard title="Doctors" value="85" />
+        <KpiCard title="Appointments Today" value="142" />
+        <KpiCard title="Available Beds" value="48" />
       </div>
     </div>
   );

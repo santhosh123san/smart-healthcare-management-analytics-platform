@@ -1,0 +1,133 @@
+SMART HEALTHCARE MANAGEMENT & ANALYTICS PLATFORM
+DEVELOPMENT LOG
+Team Members: Santhosh, Prathanjan
+
+==================================================
+DAY 1 — 28 July 2026
+==================================================
+
+Member: Prathanjan
+
+Work Completed:
+- Verified Git installation and development environment.
+- Verified Node.js and npm installation.
+- Created the React frontend using Vite.
+- Configured React with JavaScript and ESLint.
+- Installed frontend dependencies.
+- Started and verified the Vite development server.
+- Verified the React application in the browser.
+- Created the frontend source folder structure.
+- Created documentation and screenshot directory structure.
+- Captured Day 1 frontend setup screenshots.
+- Created the Day 1 daily report.
+
+GitHub:
+- Created and committed the initial frontend setup.
+- Pushed Day 1 work to the GitHub repository.
+
+Status:
+Day 1 completed successfully.
+
+==================================================
+DAY 2 — 29 July 2026
+==================================================
+
+Member: Prathanjan
+
+Work Completed:
+- Created reusable Navbar component.
+- Created Navbar styling.
+- Added Dashboard page.
+- Connected Dashboard to App.jsx.
+- Added healthcare KPI cards.
+- Added sample healthcare KPI values.
+- Created Dashboard CSS styling.
+- Connected Dashboard CSS to Dashboard.jsx.
+- Tested the dashboard in the browser.
+- Captured Day 2 screenshots.
+- Created the Day 2 daily report.
+
+GitHub:
+- Committed Day 2 frontend development work.
+- Synchronized Day 2 changes with GitHub.
+
+Status:
+Day 2 completed successfully.
+
+==================================================
+DAY 3 — 30 July 2026
+==================================================
+
+Member: Prathanjan
+
+Work Completed:
+- Verified the Day 2 frontend structure.
+- Created Sidebar component.
+- Created Sidebar CSS.
+- Connected Sidebar CSS to Sidebar.jsx.
+- Integrated Sidebar into App.jsx.
+- Updated the application layout using App.css.
+- Positioned Sidebar, Navbar and Dashboard together.
+- Improved Sidebar navigation styling.
+- Verified the frontend layout using the Vite development server.
+- Captured the Day 3 implementation screenshot.
+- Created the Day 3 daily report.
+- Added/verified frontend .gitignore configuration.
+- Ensured node_modules was excluded from Git tracking.
+
+GitHub:
+- Committed Day 3 frontend development work.
+- Synchronized Day 3 changes with GitHub.
+
+Status:
+Day 3 completed successfully.
+
+==================================================
+DAY 4 — 30 July 2026
+==================================================
+
+Member: Prathanjan
+
+Work Completed:
+- Reviewed Week 1 project management requirements.
+- Verified the project management documentation folder.
+- Identified that Development_Log.txt was missing.
+- Created Development_Log.txt.
+- Continued maintaining project documentation according to the Week 1 requirements.
+
+Status:
+Documentation maintenance in progress.
+
+==================================================
+GENERAL PROJECT RULE
+==================================================
+
+Development work, documentation, screenshots, files created,
+GitHub commits and synchronization must be maintained throughout
+the project.
+
+==================================================
+
+--------------------------------------------------
+DAY 4 — FRONTEND COMPONENT DEVELOPMENT
+--------------------------------------------------
+
+Member: Prathanjan
+
+Work Completed:
+- Created reusable KpiCard.jsx component.
+- Created KpiCard.css styling file.
+- Connected KpiCard.css to KpiCard.jsx.
+- Replaced hard-coded KPI card markup in Dashboard.jsx with reusable KpiCard components.
+- Verified that the dashboard continues to display all four KPI cards correctly.
+
+Files Created:
+- frontend/src/components/KpiCard.jsx
+- frontend/src/components/KpiCard.css
+
+Files Modified:
+- frontend/src/pages/Dashboard.jsx
+
+Status:
+Reusable KPI component successfully implemented and tested.
+--------------------------------------------------
