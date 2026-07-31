@@ -108,3 +108,13 @@ Verified database connectivity and existing tables.
 
 
 ====================================================
+
+Week 2 - Day 2
+
+Created SQLAlchemy ORM model for Doctors.
+Updated Patient ORM model.
+Registered ORM models with SQLAlchemy metadata.
+Configured FastAPI to create database tables automatically.
+Verified backend API startup.
+
+=======================================================

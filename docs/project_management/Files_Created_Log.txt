@@ -370,4 +370,17 @@ Development_Log.txt
 Files_Created_Log.txt
 
 ==========================================================
->>>>>>> Stashed changes
+
+
+Week 2 - Day 2
+
+Created:
+backend/models/doctor.py
+
+Modified:
+backend/models/patient.py
+backend/main.py
+Development_Log.txt
+Files_Created_Log.txt
+
+==========================================================
