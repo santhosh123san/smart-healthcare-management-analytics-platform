@@ -97,3 +97,14 @@ Status:
 Completed Successfully.
 
 ---------------------------------------------------
+
+
+Week 2 - Day 1
+
+Configured PostgreSQL database connection using SQLAlchemy.
+Created environment variable configuration.
+Configured application settings.
+Verified database connectivity and existing tables.
+
+
+====================================================

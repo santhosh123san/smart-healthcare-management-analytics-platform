@@ -121,6 +121,7 @@ Total Files Created Today: 2
 
 --------------------------------------------------------
 
+<<<<<<< Updated upstream
 ==================================================
 PRATHANJAN — WEEK 1 FILES CREATED
 ==================================================
@@ -358,3 +359,15 @@ Git Protection:
 - The .env file is excluded from Git tracking through frontend/.gitignore.
 
 --------------------------------------------------
+=======
+Week 2 - Day 1
+
+Modified:
+backend/database/db.py
+backend/config/settings.py
+backend/.env
+Development_Log.txt
+Files_Created_Log.txt
+
+==========================================================
+>>>>>>> Stashed changes
