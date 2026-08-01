@@ -238,3 +238,22 @@ Files Created:
 
 Status:
 Frontend API communication structure prepared for future FastAPI integration.
+
+WEEK 2
+
+DAY 1 — BACKEND ENVIRONMENT SETUP
+
+Member: Prathanjan
+
+Work Completed:
+- Installed Python 3.13.7.
+- Created and activated the Python virtual environment.
+- Installed backend project dependencies from requirements.txt.
+- Installed PostgreSQL 17 and pgAdmin 4.
+- Created the smart_healthcare_db PostgreSQL database.
+- Verified backend environment configuration.
+- Started the FastAPI backend server successfully.
+- Verified backend API using Swagger UI (http://127.0.0.1:8000/docs).
+
+Status:
+Backend development environment successfully configured and verified. Ready to begin backend API implementation.
