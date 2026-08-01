@@ -2,7 +2,6 @@ SMART HEALTHCARE MANAGEMENT & ANALYTICS PLATFORM
 
 FILES CREATED LOG
 
-======================================
 
 Week 1 Day 1
 
@@ -11,7 +10,6 @@ backend/.env
 backend/requirements.txt
 README.md
 
-======================================
 
 Week 1 Day 2
 
@@ -55,7 +53,7 @@ docs/technical/Development_Log.txt
 
 docs/project_management/Files_Created_Log.txt
 
-===================================================
+
 
 Week 1 Day 3
 
@@ -73,7 +71,6 @@ screenshots/Week1/Day3/02_Database_Notes.png
 
 screenshots/Week1/Day3/03_Daily_Report.png
 
-===================================================
 
 Week 1 Day 4
 
@@ -83,7 +80,7 @@ database/setup/PostgreSQL_Installation_Report.docx
 
 database/setup/Database_Creation_Report.docx
 
-=====================================================
+
 
 Week 1 Day 5
 
@@ -93,11 +90,10 @@ sql/01_create_patients_doctors_tables.sql
 
 database/Week1_Day5_Table_Creation_Report.docx
 
-========================================================
 
-=========================================
+
+
 Week 1 - Day 6
-=========================================
 
 Files Created
 
@@ -105,11 +101,8 @@ Files Created
 
 Total Files Created Today: 1
 
---------------------------------------------------------
 
-=========================================
-Week 1 - Day 7
-=========================================
+Week 1 - Day 
 
 Files Created
 
@@ -119,12 +112,8 @@ Files Created
 
 Total Files Created Today: 2
 
---------------------------------------------------------
 
-<<<<<<< Updated upstream
-==================================================
 PRATHANJAN — WEEK 1 FILES CREATED
-==================================================
 
 DAY 1 — 28 July 2026
 
@@ -153,7 +142,6 @@ Screenshots:
 - screenshots/week1/day1/frontend-setup-completed.png
 - screenshots/week1/day1/Week1_Day1_Frontend_Folder_Structure.png
 
---------------------------------------------------
 
 DAY 2 — 29 July 2026
 
@@ -171,7 +159,6 @@ Screenshots:
 - screenshots/week1/day2/Week1_Day2_Navbar_Completed.png
 - screenshots/week1/day2/Week1_Day2_Dashboard_KPI.png
 
---------------------------------------------------
 
 DAY 3 — 30 July 2026
 
@@ -188,7 +175,6 @@ Documentation:
 Screenshots:
 - screenshots/week1/day3/Week1_Day3_Sidebar_Layout.png
 
---------------------------------------------------
 
 DAY 4 — 30 July 2026
 
@@ -196,9 +182,6 @@ Project Management:
 - docs/project_management/Development_Log.txt
 - docs/project_management/Files_Created_Log.txt
 
-==================================================
-
---------------------------------------------------
 
 DAY 4 — FRONTEND DEVELOPMENT
 
@@ -214,9 +197,6 @@ Purpose:
 - Connected the reusable component to the Dashboard.
 - Added dedicated styling for KPI cards.
 
---------------------------------------------------
-
---------------------------------------------------
 DAY 4 — SCREENSHOT
 
 Screenshot Created:
@@ -226,11 +206,8 @@ Purpose:
 - Documents the updated healthcare dashboard after implementing
   the reusable KpiCard component and its styling.
 
---------------------------------------------------
 
---------------------------------------------------
 DAY 4 — DASHBOARD VERIFICATION
---------------------------------------------------
 
 Member: Prathanjan
 
@@ -244,9 +221,7 @@ Screenshot:
 
 Status:
 Day 4 frontend component implementation verified successfully.
---------------------------------------------------
 
---------------------------------------------------
 DAY 5 — PATIENTS PAGE AND ROUTING
 
 Files Created:
@@ -269,9 +244,7 @@ Purpose:
 - Added clickable Dashboard and Patients navigation.
 - Verified navigation between the Dashboard and Patients pages.
 
---------------------------------------------------
 
---------------------------------------------------
 DAY 5 — SCREENSHOT
 
 Screenshot Created:
@@ -281,9 +254,6 @@ Purpose:
 - Documents the Patients page and React Router navigation
   implemented during Day 5.
 
---------------------------------------------------
-
---------------------------------------------------
 DAY 6 — DOCTORS PAGE AND ROUTING
 
 Files Created:
@@ -299,9 +269,7 @@ Purpose:
 - Added Doctors navigation to the Sidebar.
 - Verified Dashboard, Patients, and Doctors navigation.
 
---------------------------------------------------
 
---------------------------------------------------
 DAY 6 — NAVBAR DOCTORS ROUTING
 
 Files Modified:
@@ -311,9 +279,6 @@ Purpose:
 - Added a React Router link for the Doctors page in the Navbar.
 - Verified navigation to /doctors from the Navbar.
 
---------------------------------------------------
-
---------------------------------------------------
 DAY 6 — SCREENSHOT
 
 Screenshot Created:
@@ -323,11 +288,9 @@ Purpose:
 - Documents the Doctors page and routing functionality
   implemented during Day 6.
 
---------------------------------------------------
 
---------------------------------------------------
 DAY 7 — FRONTEND API SERVICE PREPARATION
---------------------------------------------------
+
 
 Files Created:
 - frontend/src/services/api.js
@@ -342,9 +305,6 @@ Verification:
 - Confirmed the React frontend continues to run correctly.
 - Verified Dashboard, Patients, and Doctors pages still work.
 
---------------------------------------------------
-
---------------------------------------------------
 DAY 7 — FRONTEND API CONFIGURATION
 
 Files Created:
@@ -358,8 +318,7 @@ Purpose:
 Git Protection:
 - The .env file is excluded from Git tracking through frontend/.gitignore.
 
---------------------------------------------------
-=======
+
 Week 2 - Day 1
 
 Modified:
@@ -368,8 +327,6 @@ backend/config/settings.py
 backend/.env
 Development_Log.txt
 Files_Created_Log.txt
-
-==========================================================
 
 
 Week 2 - Day 2
@@ -382,5 +339,3 @@ backend/models/patient.py
 backend/main.py
 Development_Log.txt
 Files_Created_Log.txt
-
-==========================================================
