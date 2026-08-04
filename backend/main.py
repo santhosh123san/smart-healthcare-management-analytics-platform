@@ -5,12 +5,14 @@ from backend.models.patient import Patient
 from backend.models.doctor import Doctor
 
 from backend.routes.patient_routes import router as patient_router
+from backend.routes.doctor_routes import router as doctor_router
 
 Base.metadata.create_all(bind=engine)
 
 app = FastAPI(title="Smart Healthcare Platform")
 
 app.include_router(patient_router)
+app.include_router(doctor_router)
 
 
 @app.get("/")
