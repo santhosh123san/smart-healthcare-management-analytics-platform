@@ -13,3 +13,26 @@ def create_doctor(db: Session, doctor: DoctorCreate):
     db.commit()
     db.refresh(new_doctor)
     return new_doctor
+
+
+def update_doctor(db: Session, doctor_id: int, doctor_data: DoctorCreate):
+    doctor = db.query(Doctor).filter(Doctor.id == doctor_id).first()
+
+    if doctor:
+        for key, value in doctor_data.model_dump().items():
+            setattr(doctor, key, value)
+
+        db.commit()
+        db.refresh(doctor)
+
+    return doctor
+
+
+def delete_doctor(db: Session, doctor_id: int):
+    doctor = db.query(Doctor).filter(Doctor.id == doctor_id).first()
+
+    if doctor:
+        db.delete(doctor)
+        db.commit()
+
+    return doctor

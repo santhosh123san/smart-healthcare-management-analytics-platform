@@ -25,3 +25,26 @@ def create_new_doctor(
     db: Session = Depends(get_db)
 ):
     return add_doctor(doctor, db)
+
+
+from backend.controllers.doctor_controller import (
+    modify_doctor,
+    remove_doctor
+)
+
+
+@router.put("/{doctor_id}")
+def update_existing_doctor(
+    doctor_id: int,
+    doctor: DoctorCreate,
+    db: Session = Depends(get_db)
+):
+    return modify_doctor(doctor_id, doctor, db)
+
+
+@router.delete("/{doctor_id}")
+def delete_existing_doctor(
+    doctor_id: int,
+    db: Session = Depends(get_db)
+):
+    return remove_doctor(doctor_id, db)

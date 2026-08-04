@@ -12,3 +12,18 @@ def fetch_patients(db: Session):
 
 def add_patient(patient: PatientCreate, db: Session):
     return create_patient(db, patient)
+
+
+
+from backend.services.patient_service import (
+    update_patient,
+    delete_patient
+)
+
+
+def modify_patient(patient_id: int, patient_data: PatientCreate, db: Session):
+    return update_patient(db, patient_id, patient_data)
+
+
+def remove_patient(patient_id: int, db: Session):
+    return delete_patient(db, patient_id)
