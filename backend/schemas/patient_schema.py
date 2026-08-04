@@ -1,12 +1,12 @@
 from pydantic import BaseModel
-from typing import Optional
+from datetime import date
 
 
 class PatientBase(BaseModel):
     first_name: str
     last_name: str
-    age: int
     gender: str
+    date_of_birth: date
     phone: str
     email: str
     address: str
@@ -17,7 +17,7 @@ class PatientCreate(PatientBase):
 
 
 class PatientResponse(PatientBase):
-    id: int
+    patient_id: int
 
     class Config:
         from_attributes = True

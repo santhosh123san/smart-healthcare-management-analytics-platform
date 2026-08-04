@@ -339,3 +339,18 @@ backend/models/patient.py
 backend/main.py
 Development_Log.txt
 Files_Created_Log.txt
+
+
+Week 2 - Day 5
+
+Modified Files:
+- backend/services/patient_service.py
+- backend/controllers/patient_controller.py
+- backend/routes/patient_routes.py
+- backend/schemas/patient_schema.py
+
+Screenshots:
+- screenshots/week2/day5/Week2_Day5_GET_Patient.png
+- screenshots/week2/day5/Week2_Day5_POST_Patient.png
+- screenshots/week2/day5/Week2_Day5_PUT_Patient.png
+- screenshots/week2/day5/Week2_Day5_DELETE_Patient.png

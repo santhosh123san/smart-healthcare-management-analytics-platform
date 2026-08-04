@@ -257,3 +257,17 @@ Work Completed:
 
 Status:
 Backend development environment successfully configured and verified. Ready to begin backend API implementation.
+
+
+Week 2 - Day 5
+
+Date: 04-08-2026
+
+Tasks Completed:
+- Tested Patient CRUD APIs using Swagger.
+- Verified GET API.
+- Verified POST API.
+- Verified PUT API.
+- Verified DELETE API.
+- Fixed Patient schema mismatch (age → date_of_birth).
+- Confirmed FastAPI and PostgreSQL integration is working.

@@ -16,7 +16,7 @@ def create_patient(db: Session, patient: PatientCreate):
 
 
 def update_patient(db: Session, patient_id: int, patient_data: PatientCreate):
-    patient = db.query(Patient).filter(Patient.id == patient_id).first()
+    patient = db.query(Patient).filter(Patient.patient_id == patient_id).first()
 
     if patient:
         for key, value in patient_data.model_dump().items():
@@ -29,7 +29,7 @@ def update_patient(db: Session, patient_id: int, patient_data: PatientCreate):
 
 
 def delete_patient(db: Session, patient_id: int):
-    patient = db.query(Patient).filter(Patient.id == patient_id).first()
+    patient = db.query(Patient).filter(Patient.patient_id == patient_id).first()
 
     if patient:
         db.delete(patient)
