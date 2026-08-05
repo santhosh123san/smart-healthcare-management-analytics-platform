@@ -195,3 +195,17 @@ Verified:
 ============================================================
 End of Current Log
 ============================================================
+
+
+============================================================
+Week 2 - Day 4
+============================================================
+
+Modified Files:
+- backend/models/patient.py
+- backend/main.py
+- docs/project_management/Development_Log.san.txt
+- docs/project_management/Files_Created_Log.san.txt
+
+
+-------------------------------------------------------------

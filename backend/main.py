@@ -1,5 +1,11 @@
 from fastapi import FastAPI
 
+from backend.database.db import engine, Base
+from backend.models.patient import Patient
+
+# Create database tables (if they don't already exist)
+Base.metadata.create_all(bind=engine)
+
 app = FastAPI(
     title="Smart Healthcare Management & Analytics Platform",
     version="1.0"
@@ -16,8 +22,3 @@ def health():
     return {
         "status": "Healthy"
     }
-
-
-@app.get("/")
-def home():
-    return {"message": "Smart Healthcare Platform API is Running Successfully"}

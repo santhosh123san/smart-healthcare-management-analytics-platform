@@ -134,3 +134,22 @@ Verified Swagger UI.
 Backend server running successfully.
 
 =====================================================
+
+============================================================
+Week 2 - Day 4
+============================================================
+
+Objective:
+Created the Patient SQLAlchemy ORM model.
+
+Completed:
+- Created Patient model using SQLAlchemy.
+- Mapped the model to the patients table.
+- Connected the model with the database engine.
+- Enabled automatic metadata creation.
+- Verified successful application startup.
+
+Status:
+Completed Successfully.
+
+-------------------------------------------------------------
