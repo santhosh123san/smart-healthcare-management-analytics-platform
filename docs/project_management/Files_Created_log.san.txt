@@ -1,0 +1,197 @@
+============================================================
+SMART HEALTHCARE MANAGEMENT & ANALYTICS PLATFORM
+Files Created Log - Santhosh
+============================================================
+
+============================================================
+Week 1 - Day 1
+============================================================
+
+Created Folders:
+- backend/
+- frontend/
+- database/
+- sql/
+- powerbi/
+- testing/
+- github/
+- presentation/
+- reports/
+- screenshots/
+- docs/
+
+Created Documentation Folders:
+- docs/architecture/
+- docs/daily_reports/
+- docs/project_management/
+- docs/technical/
+- docs/weekly_reports/
+- docs/workflow/
+
+Created Files:
+- README.md
+
+------------------------------------------------------------
+
+============================================================
+Week 1 - Day 2
+============================================================
+
+Created Backend Structure:
+- backend/config/
+- backend/controllers/
+- backend/database/
+- backend/logs/
+- backend/middleware/
+- backend/models/
+- backend/routes/
+- backend/schemas/
+- backend/services/
+- backend/utils/
+
+Created Files:
+- backend/main.py
+- backend/requirements.txt
+- backend/.env
+- backend/config/settings.py
+- backend/database/db.py
+- backend/models/patient.py
+- backend/schemas/patient_schema.py
+- backend/routes/patient_routes.py
+- backend/services/patient_service.py
+- backend/controllers/patient_controller.py
+- backend/middleware/auth.py
+- backend/utils/helper.py
+
+Created Documentation:
+- docs/architecture/Backend_Architecture.docx
+
+Created Project Management Files:
+- docs/project_management/Development_Log.san.txt
+- docs/project_management/Files_Created_Log.san.txt
+
+------------------------------------------------------------
+
+============================================================
+Week 1 - Day 3
+============================================================
+
+Created Documentation:
+- docs/workflow/Project_Workflow.md
+
+Updated:
+- Backend folder structure
+- Project documentation
+
+------------------------------------------------------------
+
+============================================================
+Week 1 - Day 4
+============================================================
+
+Created Database Folder Structure
+
+Created Files:
+- database/README.md
+
+Prepared Database Planning Documentation
+
+------------------------------------------------------------
+
+============================================================
+Week 1 - Day 5
+============================================================
+
+Created SQL Files:
+- sql/create_tables.sql
+- sql/insert_sample_data.sql
+- sql/select_queries.sql
+
+------------------------------------------------------------
+
+============================================================
+Week 1 - Day 6
+============================================================
+
+Database Created:
+- smart_healthcare_db
+
+Executed:
+- create_tables.sql
+
+Created Database Tables:
+- patients
+- doctors
+
+------------------------------------------------------------
+
+============================================================
+Week 1 - Day 7
+============================================================
+
+Executed:
+- insert_sample_data.sql
+
+Inserted Sample Records:
+- Patients Table
+- Doctors Table
+
+Verified:
+- Table Structure
+- Sample Data
+
+------------------------------------------------------------
+
+============================================================
+Week 2 - Day 1
+============================================================
+
+Updated Backend Project Structure
+
+Prepared FastAPI Architecture
+
+Configured Documentation
+
+------------------------------------------------------------
+
+============================================================
+Week 2 - Day 2
+============================================================
+
+Configured:
+- PostgreSQL Database Connection
+- SQLAlchemy Engine
+- SessionLocal
+- Declarative Base
+
+Updated Files:
+- backend/database/db.py
+- backend/.env
+
+Created:
+- backend/test_connection.py
+
+Verified:
+- PostgreSQL Connection Successful
+
+------------------------------------------------------------
+
+============================================================
+Week 2 - Day 3
+============================================================
+
+Updated:
+- backend/main.py
+
+Implemented:
+- FastAPI Application
+- Home API Endpoint (/)
+- Health Check API Endpoint (/health)
+
+Verified:
+- Swagger UI
+- API Execution
+
+============================================================
+End of Current Log
+============================================================

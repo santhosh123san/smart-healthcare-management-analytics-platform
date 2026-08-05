@@ -2,6 +2,8 @@ SMART HEALTHCARE MANAGEMENT & ANALYTICS PLATFORM
 
 Development Log
 
+member ; Santhosh T
+
 --------------------------------------------
 
 Week 1 Day 1
@@ -118,3 +120,17 @@ Configured FastAPI to create database tables automatically.
 Verified backend API startup.
 
 =======================================================
+
+Week 2 Day 3
+
+Implemented first FastAPI application.
+
+Created Home endpoint.
+
+Created Health Check endpoint.
+
+Verified Swagger UI.
+
+Backend server running successfully.
+
+=====================================================
