@@ -192,3 +192,22 @@ Status:
 Completed Successfully.
 
 =============================================================
+
+============================================================
+Week 2 - Day 7
+============================================================
+
+Objective:
+Implemented the Patient Controller and API Routes.
+
+Completed:
+- Created Patient Controller.
+- Connected Controller with Service Layer.
+- Created Patient API Routes.
+- Registered API routes in FastAPI.
+- Verified API endpoints through Swagger UI.
+
+Status:
+Completed Successfully.
+
+==============================================================

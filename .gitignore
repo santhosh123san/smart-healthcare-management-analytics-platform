@@ -1,4 +1,4 @@
-# Python cache
+# Python
 __pycache__/
 *.py[cod]
 *.pyo
@@ -7,13 +7,13 @@ __pycache__/
 venv/
 .env
 
-# VS Code
+# IDE
 .vscode/
 
 # Logs
 *.log
 
-# OS Files
+# OS
 .DS_Store
 Thumbs.db
 
