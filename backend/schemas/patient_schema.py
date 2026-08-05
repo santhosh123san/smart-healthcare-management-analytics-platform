@@ -1,5 +1,6 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, EmailStr
 from datetime import date
+from typing import Optional
 
 
 class PatientBase(BaseModel):
@@ -8,7 +9,8 @@ class PatientBase(BaseModel):
     gender: str
     date_of_birth: date
     phone: str
-    email: str
+    email: EmailStr
+    blood_group: str
     address: str
 
 

@@ -153,3 +153,23 @@ Status:
 Completed Successfully.
 
 -------------------------------------------------------------
+
+============================================================
+Week 2 - Day 5
+============================================================
+
+Objective:
+Created Pydantic schemas for the Patient module.
+
+Completed:
+- Created PatientBase schema.
+- Created PatientCreate schema.
+- Created PatientResponse schema.
+- Configured EmailStr validation.
+- Enabled ORM compatibility using from_attributes.
+- Verified FastAPI application startup.
+
+Status:
+Completed Successfully.
+
+-----------------------------------------------------------
