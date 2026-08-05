@@ -354,3 +354,20 @@ Screenshots:
 - screenshots/week2/day5/Week2_Day5_POST_Patient.png
 - screenshots/week2/day5/Week2_Day5_PUT_Patient.png
 - screenshots/week2/day5/Week2_Day5_DELETE_Patient.png
+
+
+
+Modified:
+- backend/controllers/patient_controller.py
+- backend/controllers/doctor_controller.py
+- backend/services/doctor_service.py
+- backend/routes/doctor_routes.py (if modified)
+- backend/response.py
+- Development_Log.txt
+- Files_Created_Log.txt
+
+Added Screenshots:
+- Week2_Day6_GET_Doctor.png
+- Week2_Day6_POST_Doctor.png
+- Week2_Day6_PUT_Doctor.png
+- Week2_Day6_DELETE_Doctor.png

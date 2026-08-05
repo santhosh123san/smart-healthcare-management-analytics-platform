@@ -16,8 +16,7 @@ def create_doctor(db: Session, doctor: DoctorCreate):
 
 
 def update_doctor(db: Session, doctor_id: int, doctor_data: DoctorCreate):
-    doctor = db.query(Doctor).filter(Doctor.id == doctor_id).first()
-
+    doctor = db.query(Doctor).filter(Doctor.doctor_id == doctor_id).first()
     if doctor:
         for key, value in doctor_data.model_dump().items():
             setattr(doctor, key, value)
@@ -29,8 +28,7 @@ def update_doctor(db: Session, doctor_id: int, doctor_data: DoctorCreate):
 
 
 def delete_doctor(db: Session, doctor_id: int):
-    doctor = db.query(Doctor).filter(Doctor.id == doctor_id).first()
-
+    doctor = db.query(Doctor).filter(Doctor.doctor_id == doctor_id).first()
     if doctor:
         db.delete(doctor)
         db.commit()

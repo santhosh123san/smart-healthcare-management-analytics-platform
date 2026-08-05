@@ -1,3 +1,5 @@
+from backend.utils.response import not_found_exception
+
 from fastapi import HTTPException
 
 from sqlalchemy.orm import Session
@@ -23,19 +25,19 @@ from backend.services.doctor_service import (
 )
 
 
-def modify_doctor(doctor_id: int, doctor_data: DoctorCreate, db: Session):
+def modify_doctor(doctor_id: int, doctor_data, db):
     doctor = update_doctor(db, doctor_id, doctor_data)
 
     if not doctor:
-        raise HTTPException(status_code=404, detail="Doctor not found")
+        not_found_exception("Doctor")
 
     return doctor
 
 
-def remove_doctor(doctor_id: int, db: Session):
+def remove_doctor(doctor_id: int, db):
     doctor = delete_doctor(db, doctor_id)
 
     if not doctor:
-        raise HTTPException(status_code=404, detail="Doctor not found")
+        not_found_exception("Doctor")
 
     return {"message": "Doctor deleted successfully"}

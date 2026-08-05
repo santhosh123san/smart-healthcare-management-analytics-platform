@@ -271,3 +271,7 @@ Tasks Completed:
 - Verified DELETE API.
 - Fixed Patient schema mismatch (age → date_of_birth).
 - Confirmed FastAPI and PostgreSQL integration is working.
+
+
+Week 2 - Day 6
+Completed response model implementation and tested Doctor API endpoints (GET, POST, PUT, DELETE). Verified successful responses and handled "Doctor not found" cases. Captured screenshots for documentation.
