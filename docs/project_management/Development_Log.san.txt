@@ -173,3 +173,22 @@ Status:
 Completed Successfully.
 
 -----------------------------------------------------------
+
+============================================================
+Week 2 - Day 6
+============================================================
+
+Objective:
+Implemented the Patient Service Layer.
+
+Completed:
+- Created service functions to retrieve all patients.
+- Created service function to retrieve a patient by ID.
+- Created service function to insert a new patient.
+- Connected the service layer with SQLAlchemy ORM.
+- Verified successful FastAPI application startup.
+
+Status:
+Completed Successfully.
+
+=============================================================
